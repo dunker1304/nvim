@@ -3,7 +3,7 @@ set background=dark
 set termguicolors
 colorscheme one_monokai
 
-set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+set tabstop=2 softtabstop=0 expandtab shiftwidth=4 smarttab
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -15,10 +15,10 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " " plugin on GitHub repo
-Plugin 'sickill/vim-monokai'
 Plugin 'dracula/vim', { 'name': 'dracula' }
 Plugin 'mattn/emmet-vim'
 Plugin 'tomasr/molokai'
+Plugin 'zxqfl/tabnine-vim'
 "
 call vundle#end()            " required
 "

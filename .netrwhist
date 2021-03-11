@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/var/www/loan.dunker.dev/maxpixel/public'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/nguyenhaidang/Documents/workspace/webcms/lib/webcms_web/controllers'
+let g:netrw_dirhist_2='/Users/nguyenhaidang/Documents/workspace/webcms/lib/webcms_web'
+let g:netrw_dirhist_3='/Users/nguyenhaidang/Documents/workspace/landing_page_backend/.git'
+let g:netrw_dirhist_4='/Users/nguyenhaidang/.ssh'
